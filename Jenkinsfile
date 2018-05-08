@@ -1,6 +1,6 @@
-pipeline{
-  stage("prepare"){
-    echo "Hello world"
-  }
+node{
+  stage("Prepare"){
 
+            echo "Hellworldsss agginagccdcdi"
+  }
 }
